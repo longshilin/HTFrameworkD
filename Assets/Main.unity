@@ -189,27 +189,27 @@ PrefabInstance:
     - target: {fileID: 114482348189991706, guid: d09e5ea50d2aa0841ab072ac17fbd207,
         type: 3}
       propertyPath: ActivatedProcedures.Array.data[0]
-      value: com.longshilin.TankWar.ProcedureLogin
+      value: ProcedureLogin
       objectReference: {fileID: 0}
     - target: {fileID: 114482348189991706, guid: d09e5ea50d2aa0841ab072ac17fbd207,
         type: 3}
       propertyPath: DefaultProcedure
-      value: com.longshilin.TankWar.ProcedureLogin
+      value: ProcedureLogin
       objectReference: {fileID: 0}
     - target: {fileID: 114482348189991706, guid: d09e5ea50d2aa0841ab072ac17fbd207,
         type: 3}
       propertyPath: ActivatedProcedures.Array.data[1]
-      value: com.longshilin.TankWar.ProcedureReady
+      value: ProcedureReady
       objectReference: {fileID: 0}
     - target: {fileID: 114482348189991706, guid: d09e5ea50d2aa0841ab072ac17fbd207,
         type: 3}
       propertyPath: ActivatedProcedures.Array.data[2]
-      value: com.longshilin.TankWar.ProcedureChooseLevel
+      value: ProcedureChooseLevel
       objectReference: {fileID: 0}
     - target: {fileID: 114482348189991706, guid: d09e5ea50d2aa0841ab072ac17fbd207,
         type: 3}
       propertyPath: ActivatedProcedures.Array.data[3]
-      value: com.longshilin.TankWar.ProcedureGame
+      value: ProcedureGame
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d09e5ea50d2aa0841ab072ac17fbd207, type: 3}
